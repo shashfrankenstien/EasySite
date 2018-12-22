@@ -3,7 +3,7 @@ html {
 }
 body {
 	margin: 0; height: 100%; width:100%; zoom:1;
-	background-color: var(--colors-base);
+	background-color: var(--colors-white2);
 	overflow-x: hidden;
 	/*overflow-y: scroll;*/
 }
