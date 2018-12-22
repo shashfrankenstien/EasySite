@@ -1,5 +1,5 @@
-from app import app, db, models
-from flask import request, send_file
+from app import app
+from flask import send_file
 import os
 
 WEB = app.config['WEB']
