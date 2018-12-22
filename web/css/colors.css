@@ -1,0 +1,15 @@
+:root {
+	--colors-base: #68266F;
+	--colors-dark: #491A4E;
+	--colors-dark2: #2F1032;
+	--colors-light: #843E8B;
+	--colors-light2: #A05CA7;
+
+	--colors-black: #000000;
+	--colors-black2: #212121;
+	--colors-white: #FFFFFF;
+	--colors-white2: #E2E2E2;
+
+	--colors-alert: #FF5151;	
+}
+

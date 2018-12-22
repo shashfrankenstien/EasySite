@@ -1,0 +1,9 @@
+html {
+	overflow-x:hidden;
+}
+body {
+	margin: 0; height: 100%; width:100%; zoom:1;
+	background-color: var(--colors-base);
+	overflow-x: hidden;
+	/*overflow-y: scroll;*/
+}
